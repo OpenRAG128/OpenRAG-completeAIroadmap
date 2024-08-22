@@ -5,31 +5,31 @@
     <img src="https://img.shields.io/badge/Generative%20AI-Innovation-blueviolet" alt="Generative AI Badge">
 </p>
 
-</br>
+<br/>
 
 <p align="center">
     OpenRAG, which stands for <b>Open Source Rapid Algorithms of Growth</b>, is a pioneering Generative AI startup focused on developing and innovating domain-specific RAGbots and various generative AI applications. Founded in April 2024 by Nisharg Nargund and Mitul Goswami, we have two Beta MVPs and a successful nationwide hackathon under our belt, setting us on our way to revolutionizing the world of generative AI.
 </p>
 
-</br>
+<br/>
 
 <h2 align="center" style="color:#FF9800;">0 to Hero Artificial Intelligence Roadmap</h2>
 
-▶️ <b style="color:#03A9F4;">A very beginner-friendly Machine Learning introduction videos: Good concepts-wise learnings!</b>
+### ▶️ <b style="color:#03A9F4;">A very beginner-friendly Machine Learning introduction videos: Good concepts-wise learnings!</b>
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
 
-▶️ <b style="color:#03A9F4;">A very concisely explained Deep Learning videos!</b>
+### ▶️ <b style="color:#03A9F4;">A very concisely explained Deep Learning videos!</b>
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=SlbbvhO3jKY&list=PLTDARY42LDV4Ic6ZPHIh_CdlPwkKDJmpk)
 
-▶️ <b style="color:#03A9F4;">Natural Language Processing: A to Z complete!</b>
+### ▶️ <b style="color:#03A9F4;">Natural Language Processing: A to Z complete!</b>
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
 <br/>
 
-<h3 style="color:#FF5722;">📝THIS WAS ALL ABOUT GETTING FAMILIAR WITH AI/ML AND GETTING IMPORTANT AND FUNDAMENTAL CONCEPTS KNOWN! Let's now dive more deep into the AI field and explore content generation part of AI..</h3>
+<h3 style="color:#FF5722;">📝 THIS WAS ALL ABOUT GETTING FAMILIAR WITH AI/ML AND GETTING IMPORTANT AND FUNDAMENTAL CONCEPTS KNOWN! Let's now dive deeper into the AI field and explore the content generation part of AI..</h3>
 
 ### 0. GenAI Crash Course for Beginners (~3 Hr)
 ▶️ This is a nice video to refresh your high-level overview of generative AI.
@@ -88,14 +88,4 @@
 
 ### 13. RAG Tutorials (~2 Hr) 🧑‍🚀
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?app=desktop&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
-* [LangChain Docs](https://python.langchain.com/docs/modules/data_connection/retrievers)
-
-### 14. Responsible AI [AI Ethics]
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=nDJL_Zr7UIY)
-* [The AI Responsibility Lab](https://www.airesponsibility.org/)
-
-### 15. Resource [More Links]
-* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@Resources_4_GenAI)
-* [KDNuggets](https://www.kdnuggets.com/)
-
-<h3 align="center" style="color:#FFC107;">End of Roadmap 🚀</h3>
+* [LangChain Docs](https://python.langchain.com/docs/modules/data_connection/re

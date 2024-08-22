@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#009688;">OpenRAG - Complete AI Roadmap</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Open%20Source-RAG%20Chatbots-FF4081" alt="OpenRAG Badge">
+    <img src="https://img.shields.io/badge/Open%20Source-RAG%20bots-FF4081" alt="OpenRAG Badge">
     <img src="https://img.shields.io/badge/Generative%20AI-Innovation-blueviolet" alt="Generative AI Badge">
 </p>
 

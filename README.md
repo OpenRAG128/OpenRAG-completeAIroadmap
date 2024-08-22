@@ -89,3 +89,57 @@
 ### 13. RAG Tutorials (~2 Hr) 🧑‍🚀
 * [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?app=desktop&list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 * [LangChain Docs](https://python.langchain.com/docs/modules/data_connection/re
+
+### 14. RAG Vs Prompt Engineering Vs Fine Tuning (15 Min) 🪢
+* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=YVWxbHJakgg)
+
+### 15. Fine Tuning LLM (~4 Hr) 🔥
+* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
+
+### 16. LLM Agents ⛓
+* https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
+* https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/
+* https://www.promptingguide.ai/research/llm-agents
+* https://developer.nvidia.com/blog/introduction-to-llm-agents/
+* https://www.truefoundry.com/blog/llm-agents#:~:text=Challenges-,Introduction,assistant%2C%20to%20plan%20a%20vacation.
+* https://docs.agpt.co/#agent
+
+### 17. What is MultiModel? (7 Min) 🎭
+* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=WkoytlA3MoQ)
+* Blog - https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/mm_llms_guide.md
+
+### 18. What is Mixture of Experts (MoE) (~30 Min) 🏢
+* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mwO6v4BlgZQ)
+* https://huggingface.co/blog/moe
+
+### 19. Streamlit for fast prototype UI ⚒
+* [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=20V_ZB7taCM)
+* https://docs.streamlit.io/
+
+### 20. GenAI Use Cases 🖥
+* Tagging - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7yFxK0kGLNo)
+* Webscraping - https://github.com/genieincodebottle/generative-ai/tree/main/genai_usecases/scrapgraph
+* Chatbot with SQL Database - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=sztCQgZhwME&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=11)
+* Chatbot with CSV - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=c7mwwfsBGZ8&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=8)
+* Text to SQL generation - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=yXPull517vE&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=10)
+* Text Summarization - [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=8ztk-f2PcrQ&list=PL02dtxLisSijKxtTNoRbQ47RWdGZ27wN0&index=6)
+
+### 21. LLM Evaluation 💯
+* Blogs
+   * https://deci.ai/blog/llm-evaluation-ultimate-guide/
+   * https://research.aimultiple.com/large-language-model-evaluation/
+   * https://aisera.com/blog/llm-evaluation/
+
+### 22. LLMOPs & Productionization of GenAI applications 🏗
+* Short Course - https://www.deeplearning.ai/short-courses/llmops/
+* Specialization - https://www.coursera.org/specializations/large-language-model-operations
+
+### 23. GenAI Glossary of terms 🧑‍🏫
+* https://github.com/genieincodebottle/generative-ai/tree/main/docs/Essential_Terms_GenAI.pdf
+
+### 🤝 Thank You for joining INTELLECTRA 💪🔥
+Official organisers OpenRAG and MaDKet promises the indian audience that we will keep conducting this type of sessions and workshops frequently to stay connected with you all and to grow as an AI startup and community. So, each and every indian should be on the top of the world in the field of AI.
+
+If you want to collaborate or work with us, you can DM us from the IG link given above or you can visit our website to know more about us:
+OpenRAG - [OpenRAG Website](https://openrag.in) 
+MaDKet - [Madket IG Handle](https://www.instagram.com/madket04?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
